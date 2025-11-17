@@ -1,0 +1,15 @@
+{
+  "area": 3000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "stories": 2,
+  "parking": 1,
+  "mainroad_yes": 1,
+  "guestroom_yes": 0,
+  "basement_yes": 0,
+  "hotwaterheating_yes": 0,
+  "airconditioning_yes": 1,
+  "prefarea_yes": 1,
+  "furnishingstatus_semi_furnished": 0,
+  "furnishingstatus_unfurnished": 1
+}
